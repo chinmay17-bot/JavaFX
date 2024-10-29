@@ -1,0 +1,9 @@
+.button{
+}
+
+/* Hover effect */
+.button:hover {
+  -fx-background-color: "red"; /* Dark background on hover */
+    -fx-color: #fff; /* White text on hover */
+}
+
